@@ -1,0 +1,28 @@
+{
+  "name": "part-1-",
+  "version": "1.0.0",
+  "description": "Apka na potrzeby lekcji",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agnieszkaa86/node-part-1-.git"
+  },
+  "author": "Agnieszka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agnieszkaa86/node-part-1-/issues"
+  },
+  "homepage": "https://github.com/Agnieszkaa86/node-part-1-#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
