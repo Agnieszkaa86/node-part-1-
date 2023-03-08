@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Agnieszkaa86/node-part-1-#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "eslint": "^8.35.0"
